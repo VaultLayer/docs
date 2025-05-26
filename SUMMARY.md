@@ -4,6 +4,7 @@
 
 ## Smart Vaults
 
+* [🟠 vltCORE](smart-vaults/vltcore.md)
 * [🟠 Liquidity Market (live)](smart-vaults/liquidity-market-live.md)
 * [🚀 Bitcoin Staking (beta)](smart-vaults/bitcoin-staking-beta.md)
 * [🤖 DeFAI (soon)](smart-vaults/defai-soon.md)
@@ -28,5 +29,4 @@
 
 ## Roadmap
 
-* [🟠 Vaulter CORE (vltCORE)](roadmap/vaulter-core-vltcore.md)
 * [🔶 Tokenomics](roadmap/tokenomics.md)
