@@ -4,7 +4,7 @@ description: >-
   high security, scalability, and ease of integration.
 ---
 
-# ⚙️ Architecture
+# Architecture
 
 The key components of the VaultLayer architecture include:
 

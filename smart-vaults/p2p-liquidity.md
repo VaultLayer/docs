@@ -1,4 +1,4 @@
-# 🟠 Liquidity Market (live)
+# 🤝 P2P Liquidity
 
 The NFT lending market allows Core DAO NFT holders to get access to liquidity without having to sell their NFT.
 
@@ -12,7 +12,7 @@ The lender with the best bid, provides liquidity and earns yield or the NFT coll
 
 For the detailed documentation on how to borrow or lend, check:
 
-* [Borrow $CORE with NFT (as collateral](../points/borrow-usdcore-with-nft.md))
-* [Lend $CORE (provide liquidity for NFT collateral)](../points/lend-usdcore.md)
+* [Borrow $CORE with NFT (as collateral](../points/use-btc-as-collateral.md))
+* [Lend $CORE (provide liquidity for NFT collateral)](../points/earn-providing-liquidity.md)
 
 :information\_source: Fees: Flat platform fee of 2% flat for all actions taken in the market: Loan request, bid, bid acceptance, repayment, withdraw, loan cancellation and bid cancellation.

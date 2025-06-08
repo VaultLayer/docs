@@ -26,16 +26,16 @@ With VaultLayer, users grow their BTC and rewards easier, without losing custody
 
 We've put together some helpful guides for you to get setup with VaultLayer quickly and easily.
 
-{% content-ref url="smart-vaults/liquidity-market-live.md" %}
-[liquidity-market-live.md](smart-vaults/liquidity-market-live.md)
+{% content-ref url="smart-vaults/p2p-liquidity.md" %}
+[p2p-liquidity.md](smart-vaults/p2p-liquidity.md)
 {% endcontent-ref %}
 
-{% content-ref url="smart-vaults/bitcoin-staking-beta.md" %}
-[bitcoin-staking-beta.md](smart-vaults/bitcoin-staking-beta.md)
+{% content-ref url="smart-vaults/bitcoin-staking.md" %}
+[bitcoin-staking.md](smart-vaults/bitcoin-staking.md)
 {% endcontent-ref %}
 
-{% content-ref url="points/test-btc-staking.md" %}
-[test-btc-staking.md](points/test-btc-staking.md)
+{% content-ref url="points/stake-btc-on-l1.md" %}
+[stake-btc-on-l1.md](points/stake-btc-on-l1.md)
 {% endcontent-ref %}
 
 ### 📌 Official links:&#x20;
@@ -52,10 +52,10 @@ Telegram: [@bitcoin\_defi\_strategy](https://t.me/+Q58TzLXmvGM0MGFh)
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="developers/architecture.md" %}
-[architecture.md](developers/architecture.md)
+{% content-ref url="tech/architecture.md" %}
+[architecture.md](tech/architecture.md)
 {% endcontent-ref %}
 
-{% content-ref url="developers/sdk/" %}
-[sdk](developers/sdk/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

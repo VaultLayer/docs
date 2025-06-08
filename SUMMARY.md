@@ -5,27 +5,22 @@
 ## Smart Vaults
 
 * [🟠 vltCORE](smart-vaults/vltcore.md)
-* [🟠 Liquidity Market (live)](smart-vaults/liquidity-market-live.md)
-* [🚀 Bitcoin Staking (beta)](smart-vaults/bitcoin-staking-beta.md)
-* [🤖 DeFAI (soon)](smart-vaults/defai-soon.md)
+* [🚀 Bitcoin Staking](smart-vaults/bitcoin-staking.md)
+* [🤝 P2P Liquidity](smart-vaults/p2p-liquidity.md)
+* [🤖 Vaulter AI Agent](smart-vaults/vaulter-ai-agent.md)
 
 ## LASER  Points <a href="#points" id="points"></a>
 
 * [Social Quest](points/social-quest.md)
-* [Borrow $CORE with NFT](points/borrow-usdcore-with-nft.md)
-* [Lend $CORE](points/lend-usdcore.md)
-* [Test BTC Staking](points/test-btc-staking.md)
+* [Stake BTC on L1](points/stake-btc-on-l1.md)
+* [Use BTC as Collateral](points/use-btc-as-collateral.md)
+* [Earn Providing Liquidity](points/earn-providing-liquidity.md)
 
-## Developers
+## Tech
 
-* [⚙️ Architecture](developers/architecture.md)
-* [💡 Chain-Abstraction](developers/chain-abstraction.md)
-* [🛠️ SDK](developers/sdk/README.md)
-  * [Providers](developers/sdk/providers.md)
-  * [Supported Chains](developers/sdk/supported-chains.md)
-  * [Quick Start](developers/sdk/quick-start.md)
-  * [Demo](developers/sdk/demo.md)
-* [🌐 API (soon)](developers/api-soon.md)
+* [Architecture](tech/architecture.md)
+* [Contracts & Chains](tech/contracts-and-chains.md)
+* [Security Audits](tech/security-audits.md)
 
 ## Roadmap
 
