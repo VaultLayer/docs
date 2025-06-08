@@ -34,6 +34,6 @@ Lend and borrow against staked BTC Smart Vaults.
 
 ## 🔐 Vaulter Tool Policy Contracts
 
-These contracts manage permissioned automation via the [Vaulter AI Agent.](../components/vaulter-ai-agent.md)
+These contracts manage permissioned automation via the [Vaulter AI Agent.](broken-reference)
 
 <table><thead><tr><th width="127.94805908203125">Chain</th><th>Contract</th></tr></thead><tbody><tr><td>coreDao</td><td><a href="https://scan.coredao.org/address/0xb03DC1DBC35619B56c8d6A17d202c2B6d5EA6e3d"><code>0xb03DC1DBC35619B56c8d6A17d202c2B6d5EA6e3d</code></a></td></tr><tr><td>arbitrum</td><td><a href="https://arbiscan.io/address/0xff9Edb48f006C4dF02853F90f9ce23078C0AeCD3"><code>0xff9Edb48f006C4dF02853F90f9ce23078C0AeCD3</code></a></td></tr><tr><td>bsc</td><td><a href="https://bscscan.com/address/0x7567A8eF8AECdb98504eBB8fb9B1e9Ff14dE7384"><code>0x7567A8eF8AECdb98504eBB8fb9B1e9Ff14dE7384</code></a></td></tr><tr><td>avalanche</td><td><a href="https://snowtrace.io/address/0x1db8E00bb7055741681dda16a405ff506678840f"><code>0x1db8E00bb7055741681dda16a405ff506678840f</code></a></td></tr><tr><td>base</td><td><a href="https://basescan.org/address/0x1db8E00bb7055741681dda16a405ff506678840f"><code>0x1db8E00bb7055741681dda16a405ff506678840f</code></a></td></tr><tr><td>optimism</td><td><a href="https://optimistic.etherscan.io/address/0x1db8E00bb7055741681dda16a405ff506678840f"><code>0x1db8E00bb7055741681dda16a405ff506678840f</code></a></td></tr></tbody></table>
