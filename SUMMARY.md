@@ -2,12 +2,13 @@
 
 * [👋 Intro to VaultLayer](README.md)
 
-## Smart Vaults
+## Components
 
-* [🟠 vltCORE](smart-vaults/vltcore.md)
-* [🚀 Bitcoin Staking](smart-vaults/bitcoin-staking.md)
-* [🤝 P2P Liquidity](smart-vaults/p2p-liquidity.md)
-* [🤖 Vaulter AI Agent](smart-vaults/vaulter-ai-agent.md)
+* [🟠 Smart Vaults](components/smart-vaults.md)
+* [🚀 Bitcoin Staking](components/bitcoin-staking.md)
+* [🔶 vltCORE](components/vltcore.md)
+* [🤝 P2P Liquidity](components/p2p-liquidity.md)
+* [🤖 Vaulter AI Agent](components/vaulter-ai-agent.md)
 
 ## LASER  Points <a href="#points" id="points"></a>
 
@@ -16,11 +17,10 @@
 * [Use BTC as Collateral](points/use-btc-as-collateral.md)
 * [Earn Providing Liquidity](points/earn-providing-liquidity.md)
 
-## Tech
+## Smart Contracts
 
-* [Architecture](tech/architecture.md)
-* [Contracts & Chains](tech/contracts-and-chains.md)
-* [Security Audits](tech/security-audits.md)
+* [Contracts & Chains](smart-contracts/contracts-and-chains.md)
+* [Security Audits](smart-contracts/security-audits.md)
 
 ## Roadmap
 

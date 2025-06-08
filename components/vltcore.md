@@ -2,7 +2,7 @@
 description: VaultLayer's Core Dual-Staking Aggregation Protocol
 ---
 
-# 🟠 vltCORE
+# 🔶 vltCORE
 
 ### Overview
 

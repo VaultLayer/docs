@@ -26,12 +26,12 @@ With VaultLayer, users grow their BTC and rewards easier, without losing custody
 
 We've put together some helpful guides for you to get setup with VaultLayer quickly and easily.
 
-{% content-ref url="smart-vaults/p2p-liquidity.md" %}
-[p2p-liquidity.md](smart-vaults/p2p-liquidity.md)
+{% content-ref url="components/p2p-liquidity.md" %}
+[p2p-liquidity.md](components/p2p-liquidity.md)
 {% endcontent-ref %}
 
-{% content-ref url="smart-vaults/bitcoin-staking.md" %}
-[bitcoin-staking.md](smart-vaults/bitcoin-staking.md)
+{% content-ref url="components/bitcoin-staking.md" %}
+[bitcoin-staking.md](components/bitcoin-staking.md)
 {% endcontent-ref %}
 
 {% content-ref url="points/stake-btc-on-l1.md" %}
@@ -52,8 +52,8 @@ Telegram: [@bitcoin\_defi\_strategy](https://t.me/+Q58TzLXmvGM0MGFh)
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="tech/architecture.md" %}
-[architecture.md](tech/architecture.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
