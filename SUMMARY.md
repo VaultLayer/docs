@@ -9,6 +9,7 @@
 * [🔶 vltCORE](components/vltcore.md)
 * [🤝 P2P Liquidity](components/p2p-liquidity.md)
 * [🤖 Vaulter AI Agent](components/vaulter-ai-agent.md)
+* [Bitcoin Staking](components/bitcoin-staking-1.md)
 
 ## LASER  Points <a href="#points" id="points"></a>
 
