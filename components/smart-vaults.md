@@ -12,10 +12,10 @@ Smart Vaults are programmable, multi-chain vaults represented by NFTs. Each Smar
 
 A Smart Vault is:
 
-* An **NFT** that grants ownership and operational control
-* A **Lit PKP** (Programmable Key Pair) that enables decentralized signing
-* A **Bitcoin + EVM address** derived from the PKP public key
-* A set of **Lit Actions** (JavaScript smart contracts) that define what it can do
+* An **NFT** that grants ownership and operational control.
+* A **Lit PKP** (Programmable Key Pair) that enables decentralized signing.
+* A **Bitcoin + EVM address** derived from the PKP public key.
+* A set of **Lit Actions** (JavaScript smart contracts) that define what it can do.
 
 <figure><img src="../.gitbook/assets/smartvaults_decentralized_keys.png" alt=""><figcaption><p>Smart Vaults are Decentralized Keys</p></figcaption></figure>
 
@@ -27,10 +27,10 @@ Lit Protocol powers the secure signing mechanism for Smart Vaults.
 
 ### Key Features:
 
-* **DKG (Distributed Key Generation)**: m-node network generates and holds key shares
-* **Threshold Signing (≥n/m)**: No full key ever exists; only node consensus can sign
-* **TEEs (Trusted Execution Environments)**: Lit Actions run securely, isolated from outside interference
-* **Periodic Key Rotation**: Key shares are invalidated and refreshed frequently for added security
+* **DKG (Distributed Key Generation)**: m-node network generates and holds key shares.
+* **Threshold Signing (≥n/m)**: No full key ever exists; only node consensus can sign.
+* **TEEs (Trusted Execution Environments)**: Lit Actions run securely, isolated from outside interference.
+* **Periodic Key Rotation**: Key shares are invalidated and refreshed frequently for added security.
 
 📎 Learn more: [https://litprotocol.com](https://litprotocol.com)
 
@@ -40,8 +40,8 @@ Lit Protocol powers the secure signing mechanism for Smart Vaults.
 
 Each Smart Vault is bound to a unique Lit PKP. The public key is used to:
 
-* Derive a **Bitcoin SegWit (or Taproot) address**
-* Derive an **EVM address** (for use on CoreDAO, Ethereum, etc.)
+* Derive a **Bitcoin SegWit (or Taproot) address**.
+* Derive an **EVM address** (for use on CoreDAO, Ethereum, etc.).
 
 The **NFT owner** is the only party authorized to sign transactions using the PKP.
 
@@ -59,9 +59,9 @@ Smart Vaults are only allowed to run **hardened Lit Actions**:
 
 These actions are:
 
-* Deployed to [IPFS](https://ipfs.tech)
-* Indexed by content hash (CID)
-* Registered on-chain and enforced by policy contracts
+* Deployed to [IPFS](https://ipfs.tech).
+* Indexed by content hash (CID).
+* Registered on-chain and enforced by policy contracts.
 
 ***
 
@@ -69,9 +69,9 @@ These actions are:
 
 Every Lit Action is wrapped with:
 
-* `checkLitAuthAddressIsERC721Owner.ts`: Confirms that the signer owns the controlling NFT
-* A call to the **PKPPermissions** contract to check the CID is allowed for this PKP
-* If any condition fails, the action is aborted
+* `checkLitAuthAddressIsERC721Owner.ts`: Confirms that the signer owns the controlling NFT.
+* A call to the **PKPPermissions** contract to check the CID is allowed for this PKP.
+* If any condition fails, the action is aborted.
 
 Smart Vaults also **disable signEcdsa**, which blocks pre-signing and rug attempts.
 
@@ -81,10 +81,10 @@ Smart Vaults also **disable signEcdsa**, which blocks pre-signing and rug attemp
 
 All components are public and inspectable:
 
-* PKP Token ID and public key: visible in VaultLayer UI
-* Permissions: inspectable on [Lit Explorer](https://explorer.litprotocol.com)
-* Lit Actions: fetch CIDs from chain, load from [IPFS](https://ipfs.tech), review raw JS code
-* Policies: fully encoded on-chain and linked to each tool + agent
+* PKP Token ID and public key: visible in VaultLayer UI.
+* Permissions: inspectable on [Lit Explorer](https://explorer.litprotocol.com).
+* Lit Actions: fetch CIDs from chain, load from [IPFS](https://ipfs.tech), review raw JS code.
+* Policies: fully encoded on-chain and linked to each tool + agent.
 
 VaultLayer provides verification scripts in the [VaultLayer GitHub repo](https://github.com/VaultLayer) to audit all permitted actions for any Smart Vault.
 
@@ -100,10 +100,10 @@ VaultLayer provides verification scripts in the [VaultLayer GitHub repo](https:/
 
 Smart Vaults combine NFT-based control with Lit Protocol’s decentralized signing to deliver:
 
-* ✅ Fully programmable Bitcoin + EVM wallets
-* ✅ Tradeable and transferable vaults (NFT = control)
-* ✅ Verifiable automation with no private key risk
-* ✅ Real-time agent delegation without backend trust
+* ✅ Fully programmable Bitcoin + EVM wallets.
+* ✅ Tradeable and transferable vaults (NFT = control).
+* ✅ Verifiable automation with no private key risk.
+* ✅ Real-time agent delegation without backend trust.
 
 This architecture allows VaultLayer to offer secure, user-owned DeFi automation — turning Bitcoin into a programmable asset without compromising its core principles.
 
