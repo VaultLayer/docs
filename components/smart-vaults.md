@@ -17,7 +17,7 @@ A Smart Vault is:
 * A **Bitcoin + EVM address** derived from the PKP public key
 * A set of **Lit Actions** (JavaScript smart contracts) that define what it can do
 
-<figure><img src="../.gitbook/assets/VaultLayer - Architecture.png" alt=""><figcaption><p>VaultLayer General Architecture</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/smartvaults_decentralized_keys.png" alt=""><figcaption><p>Smart Vaults are Decentralized Keys</p></figcaption></figure>
 
 ***
 
@@ -51,10 +51,10 @@ The **NFT owner** is the only party authorized to sign transactions using the PK
 
 Smart Vaults are only allowed to run **hardened Lit Actions**:
 
-1. `signBitcoinTx` – Sign Bitcoin staking or redemption transactions
-2. `callContract` – Trigger EVM transactions (e.g., ERC20 transfers, swaps, claims)
-3. `coinTransfer` – Tranfer EVM native coin (e.g., CORE, ETH)
-4. `decryptSecrets` – Retrieve encrypted data (e.g., strategy prompts, Telegram handles)
+1. `signBitcoinTx` – Sign Bitcoin staking or redemption transactions.
+2. `callContract` – Trigger EVM transactions (e.g., ERC20 transfers, swaps, claims).
+3. `coinTransfer` – Tranfer EVM native coin (e.g., CORE, ETH).
+4. `decryptSecrets` – Retrieve encrypted data (e.g., strategy prompts, Telegram handles).
 5. `delegate` – Grant permission to approved agents (like VaulterBTC) with on-chain policies.
 
 These actions are:
