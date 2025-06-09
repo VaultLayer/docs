@@ -4,7 +4,7 @@ description: >-
   lending $CORE.
 ---
 
-# Lend $CORE
+# Earn Providing Liquidity
 
 Go to [https://app.vaultlayer.xyz/](https://app.vaultlayer.xyz/) and **Connect** with your Ethereum wallet.
 

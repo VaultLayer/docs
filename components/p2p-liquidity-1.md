@@ -34,8 +34,8 @@ Lenders bid using a **reverse auction** approach. The best bid (lowest interest 
 
 For the detailed documentation on how to borrow or lend, check:
 
-* [Use Bitcoin as collateral](../points/use-btc-as-collateral.md)
-* [Earn providing liquidity](../points/earn-providing-liquidity.md)
+* [Use Bitcoin as collateral](../points/borrow-usdcore-with-nft.md)
+* [Earn providing liquidity](../points/lend-usdcore.md)
 
 :information\_source: Fees: Flat platform fee of 2% flat for all actions taken in the market: Loan request, bid, bid acceptance, repayment, withdraw, loan cancellation and bid cancellation.
 

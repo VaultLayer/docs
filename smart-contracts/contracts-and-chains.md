@@ -18,7 +18,7 @@ These NFTs represent ownership and control of Smart Vaults.
 
 ## 🏛️ vltCORE Contracts
 
-Aggregation of CoreDao dual-staking rewards on the [vltCore](../components/vltcore.md) protocol.
+Aggregation of CoreDao dual-staking rewards on the [vltCore](../smart-vaults/vltcore.md) protocol.
 
 <table><thead><tr><th width="159.532470703125">Contract</th><th>Address</th></tr></thead><tbody><tr><td>BitcoinHelper</td><td><a href="https://scan.coredao.org/address/0xCc69633BA2C78d02bE9546D369B319bAc163FF2E"><code>0xCc69633BA2C78d02bE9546D369B319bAc163FF2E</code></a></td></tr><tr><td>CoreHelper</td><td><a href="https://scan.coredao.org/address/0xc99d60BB46560d3bC8120776470CF36Ba433C50e"><code>0xc99d60BB46560d3bC8120776470CF36Ba433C50e</code></a></td></tr><tr><td>VaulterCore</td><td><a href="https://scan.coredao.org/address/0xd2875bddb9011F93437D4A7635a68a7FcdB1F562"><code>0xd2875bddb9011F93437D4A7635a68a7FcdB1F562</code></a></td></tr><tr><td>DualDelegator 1</td><td><a href="https://scan.coredao.org/address/0xfdC04A0E3FfE458069ba08E77B9c5CE302E7a005"><code>0xfdC04A0E3FfE458069ba08E77B9c5CE302E7a005</code></a></td></tr><tr><td>DualDelegator 2</td><td><a href="https://scan.coredao.org/address/0xd77f5A62f8Ab79fDdbF01dAA20F1634D4130141e"><code>0xd77f5A62f8Ab79fDdbF01dAA20F1634D4130141e</code></a></td></tr><tr><td>DualDelegator 3</td><td><a href="https://scan.coredao.org/address/0xC250d7e327F11e9DcE4D876D090E912Bdc24e375"><code>0xC250d7e327F11e9DcE4D876D090E912Bdc24e375</code></a></td></tr></tbody></table>
 

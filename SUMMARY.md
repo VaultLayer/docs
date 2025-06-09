@@ -5,9 +5,9 @@
 ## Components
 
 * [🟠 Smart Vaults](components/smart-vaults.md)
-* [🚀 Bitcoin Staking](components/bitcoin-staking.md)
-* [🔶 vltCORE](components/vltcore.md)
-* [🤝 P2P Liquidity](components/p2p-liquidity.md)
+* [🚀 Bitcoin Staking](smart-vaults/bitcoin-staking-beta.md)
+* [🔶 vltCORE](smart-vaults/vltcore.md)
+* [🤝 P2P Liquidity](smart-vaults/liquidity-market-live.md)
 * [Bitcoin Staking](components/bitcoin-staking-1.md)
 * [🤖 VaulterBTC AI Agent](components/vaulterbtc-ai-agent.md)
 * [🤝 P2P Liquidity](components/p2p-liquidity-1.md)
@@ -15,9 +15,9 @@
 ## LASER  Points <a href="#points" id="points"></a>
 
 * [Social Quest](points/social-quest.md)
-* [Stake BTC on L1](points/stake-btc-on-l1.md)
-* [Use BTC as Collateral](points/use-btc-as-collateral.md)
-* [Earn Providing Liquidity](points/earn-providing-liquidity.md)
+* [Stake BTC on L1](points/test-btc-staking.md)
+* [Use BTC as collateral](points/borrow-usdcore-with-nft.md)
+* [Earn Providing Liquidity](points/lend-usdcore.md)
 
 ## Smart Contracts
 

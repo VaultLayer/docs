@@ -11,7 +11,7 @@ description: VaultLayer's Core Dual-Staking Aggregation Protocol
 ### Features
 
 * **ERC-4626 Standard**: Implements `vltCORE` as an ERC-4626 vault shares token with minting and burning functionalities.
-* **Bitcoin-backed yield**: Users earn optimized staking rewards by maintaining a 1:24000 BTC-to-CORE ratio.
+* **Bitcoin-backed yield**: Users earn optimized staking rewards by maintaining the Satoshi (max) tier of Core's dual-staking BTC-to-CORE ratio.
 * **Liquidity access**: Tokenized `vltCORE` shares can be traded, staked, or used as collateral.
 * **Automated rebalancing**: Ensures rewards are dynamically distributed between BTC stakers and CORE depositors.
 * **Staking and delegation**: Facilitates CORE staking via CoreDAO’s staking mechanism.
@@ -19,7 +19,7 @@ description: VaultLayer's Core Dual-Staking Aggregation Protocol
 
 ## Why We Built vltCORE
 
-Imagine Alice stakes her BTC via CoreDAO. It’s safe but **locked** for months, and she's stuck waiting. Meanwhile, CoreDAO offers **higher rewards** if you also stake CORE, maintaining a **BTC:CORE ratio of 1:24,000**. Most users don’t meet that, leaving rewards on the table.
+Imagine Alice stakes her BTC via CoreDAO. It’s safe but **locked** for months, and she's stuck waiting. Meanwhile, CoreDAO offers **higher rewards** if you also stake CORE, maintaining CoreDAO's **maximum** dual-staking **BTC:CORE ratio (Satoshi Tier)**. Most users don’t meet that, leaving rewards on the table.
 
 So VaultLayer asked:
 
@@ -33,6 +33,8 @@ This led to:
 ***
 
 ## How It Works
+
+<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUcpdPfA0z5KVgF_cmGPHsGG1IECYouVjuz2ZmsF9BsgPd8MmNvGtbAts01lKzrJ6gZ2ggdhUqlNY5FkVallTvn7eyM_b4nI8q8Y1j95IyczjJzNgpSxXzl6OQowog2ebsRWMZz9FQ=s2048?key=728Fir4Ro5h7MzzA__d2yg" alt=""><figcaption><p>vltCORE Architecture</p></figcaption></figure>
 
 ### Smart Vaults
 
@@ -55,7 +57,7 @@ VaultLayer pools:
 * BTC staking transactions from Smart Vaults.
 * CORE deposits from vltCORE users.
 
-It then uses this combined position to hit **CoreDAO’s top staking tier** (1:24,000 BTC:CORE), maximizing reward distribution for all participants.
+It then uses this combined position to hit **CoreDAO’s top staking tier**, maximizing reward distribution for all participants.
 
 ***
 

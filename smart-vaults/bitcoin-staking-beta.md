@@ -1,8 +1,12 @@
 ---
-description: Stake Bitcoin on L1 & Use it as Collateral
+description: Keep Bitcoin on L1. Get Yield & Liquidity Anywhere with Smart Vaults.
 ---
 
-# 🚀 Bitcoin Staking (beta)
+# 🚀 Bitcoin Staking
+
+## BTCfi < 1% Bitcoin's Market Cap
+
+Today, BTCfi is less than 1% of Bitcoin’s 1.6 trillion dollar market cap, with a Total Addressable Market (TAM) of more than $300B compared to DeFi on Ethereum, according to two separate reports from March 2025: “The State of Bitcoin Yield” by Hex Trust & Core Ventures, and “The Future of Bitcoin #4: DeFi” by Binance Research. And most of it’s still either bridged or wrapped.
 
 ## **CoreDAO Non-Custodial BTC Staking**
 
@@ -24,9 +28,9 @@ VaultLayer unlocks capital efficiency for staked Bitcoin. Users grow their BTC +
 
 ## LSVs: A New Derivative for Staked BTC
 
-Liquid Staking Vaults (LSV) are a new type of asset that allow Self-Custodial Liquid BTC Staking, Here's how it works:
+Liquid Smart Vaults (LSV) are a new type of asset that allow Self-Custodial Liquid BTC Staking, Here's how it works:
 
-1\) Users mint a new LSV, which can be an Ordinal on L1 or an CAT721/ERC721 token on L2.
+1\) Users mint a new LSV, which can be unlocked from an ERC721 token on EVM L2s.
 
 2\) Users then use the LSV to stake BTC in CoreDAO (L1). The staked bitcoin never leaves L1, it's only "time-locked" until the maturity period chosen by the user (i.e. 3 months)
 

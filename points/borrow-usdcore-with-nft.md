@@ -4,7 +4,7 @@ description: >-
   Earn LASER Points borrowing $CORE.
 ---
 
-# Borrow $CORE with NFT
+# Use BTC as collateral
 
 Go to [https://app.vaultlayer.xyz/](https://app.vaultlayer.xyz/) and **Connect** with your Ethereum wallet holding your Core DAO NFT
 

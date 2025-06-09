@@ -2,7 +2,7 @@
 description: How to earn LASER Points, staking testnet BTC.
 ---
 
-# Test BTC Staking
+# Stake BTC on L1
 
 Go to [https://app.vaultlayer.xyz/](https://app.vaultlayer.xyz/) and login with your BTC Unisat or Ethereum wallet:
 
