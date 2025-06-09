@@ -10,6 +10,15 @@ VaultLayer is committed to security-first development. Below are links to the so
 
 ***
 
+## 🧠 Smart Vaults & Vaulter AI Agent Policies
+
+* **Source Code**: [Vaulter Tools Contracts](https://github.com/VaultLayer/vaulter-tools/tree/main/packages/aw-contracts)
+* **Pentest Brief**: [Pentesting Notes](https://github.com/VaultLayer/vaulter-tools/blob/main/packages/pentest/Pentesting.md)
+* **Auditor**: [SUB7](https://sub7.xyz/) — [@sub7xyz](https://twitter.com/sub7xyz)
+* **Audit Report**: [View PDF](https://github.com/VaultLayer/vaulter-tools/blob/main/packages/audits/SUB7_REPORT_VaultLayer%20Audit_20250605-131228.pdf)
+
+***
+
 ## 🏛️ vltCORE Protocol
 
 * **Source Code**: [VaulterCore.sol](https://github.com/VaultLayer/vaultlayer-protocol/blob/main/packages/contracts/src/VaulterCore.sol)
@@ -30,12 +39,3 @@ VaultLayer is committed to security-first development. Below are links to the so
 
 * **Source Code**: [NFTLendMarket.sol](https://github.com/VaultLayer/vaultlayer-protocol/blob/main/packages/contracts/src/NFTLendMarket.sol)
 * **Audit Status**: _Not yet audited._ Use with caution and monitor for updates.
-
-***
-
-## 🧠 Vaulter AI Agent Policies
-
-* **Source Code**: [Vaulter Tools Contracts](https://github.com/VaultLayer/vaulter-tools/tree/main/packages/aw-contracts)
-* **Pentest Brief**: [Pentesting Notes](https://github.com/VaultLayer/vaulter-tools/blob/main/packages/pentest/Pentesting.md)
-* **Auditor**: [SUB7](https://sub7.xyz/) — [@sub7xyz](https://twitter.com/sub7xyz)
-* **Audit Report**: [View PDF](https://github.com/VaultLayer/vaulter-tools/blob/main/packages/audits/SUB7_REPORT_VaultLayer%20Audit_20250605-131228.pdf)
