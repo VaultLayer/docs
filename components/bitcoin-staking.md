@@ -1,8 +1,8 @@
 ---
-description: Bitcoin Staking with Smart Vaults
+description: Keep Bitcoin on L1. Get Yield & Liquidity Anywhere with Smart Vaults.
 ---
 
-# Bitcoin Staking
+# 🚀 Bitcoin Staking
 
 VaultLayer enables self-custodial Bitcoin staking on CoreDAO and unlocks liquidity by wrapping each vault in a transferable NFT that controls access and permissions. This page explains how native BTC staking works, how Smart Vaults preserve self-custody, and how VaultLayer simplifies the user experience for Bitcoin DeFi.
 

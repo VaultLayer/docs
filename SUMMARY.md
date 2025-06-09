@@ -5,12 +5,10 @@
 ## Components
 
 * [🟠 Smart Vaults](components/smart-vaults.md)
-* [🚀 Bitcoin Staking](smart-vaults/bitcoin-staking-beta.md)
+* [🚀 Bitcoin Staking](components/bitcoin-staking.md)
 * [🔶 vltCORE](smart-vaults/vltcore.md)
-* [🤝 P2P Liquidity](smart-vaults/liquidity-market-live.md)
-* [Bitcoin Staking](components/bitcoin-staking-1.md)
 * [🤖 VaulterBTC AI Agent](components/vaulterbtc-ai-agent.md)
-* [🤝 P2P Liquidity](components/p2p-liquidity-1.md)
+* [🤝 P2P Liquidity](components/p2p-liquidity.md)
 
 ## LASER  Points <a href="#points" id="points"></a>
 
