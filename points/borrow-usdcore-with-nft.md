@@ -1,6 +1,6 @@
 ---
 description: >-
-  ℹ️ Get liquidity with a loan request, using your L1-Staked Bitcoin (and other
+  Get liquidity with a loan request, using your L1-Staked Bitcoin (and other
   assets) in your Smart Vault NFT as collateral. Earn LASER Points.
 ---
 
