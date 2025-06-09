@@ -7,8 +7,8 @@
 * [🟠 Smart Vaults](components/smart-vaults.md)
 * [🚀 Bitcoin Staking](components/bitcoin-staking.md)
 * [🔶 vltCORE](smart-vaults/vltcore.md)
-* [🤖 VaulterBTC AI Agent](components/vaulterbtc-ai-agent.md)
 * [🤝 P2P Liquidity](components/p2p-liquidity.md)
+* [🤖 VaulterBTC AI Agent](components/vaulterbtc-ai-agent.md)
 
 ## LASER  Points <a href="#points" id="points"></a>
 

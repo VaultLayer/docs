@@ -50,17 +50,17 @@ You can close the pop-up window and click on **Loans v1**:
 
 Your Loan Request will show up at the bottom as "New":
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Loan Requests List</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Loan Requests List</p></figcaption></figure>
 
 :warning: If you want to Cancel Loan, you can also do it from this section.
 
 Once a lender performs a bid on your loan request, you will be able to accept it:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Accept Loan Bid</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Accept Loan Bid</p></figcaption></figure>
 
 Check the loan terms and click **OK**:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Read and confirm loan acceptance</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Read and confirm loan acceptance</p></figcaption></figure>
 
 If all went out smoothly, you will get a confirmation for the Accept Loan request:
 

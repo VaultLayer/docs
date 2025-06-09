@@ -10,6 +10,8 @@ VaultLayer enables self-custodial Bitcoin staking on CoreDAO and unlocks liquidi
 
 ### 🔐 How Bitcoin Staking Works on CoreDAO
 
+<figure><img src="https://lh7-rt.googleusercontent.com/slidesz/AGV_vUfpHdV2oACWbEW6DvHHh1eBX-gEhTxt6Ttn-dhZz26vSRyiH6JFLNX7jKwHZzS9ODAOu8Qc56Jry6GWrKzHDFzYZk1_CbGgWVI3yINJR2E2jMgoSLaxIncD6TXg_GjEG1RhnWdMpg=s2048?key=728Fir4Ro5h7MzzA__d2yg" alt=""><figcaption><p>Bitcoin L1 Staking via CoreDAO</p></figcaption></figure>
+
 #### Non-Custodial Time-Locked Staking
 
 CoreDAO allows BTC holders to stake their assets **directly on Bitcoin L1**, using a smart script based on **`OP_CLTV`** (CheckLockTimeVerify).

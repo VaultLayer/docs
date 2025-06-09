@@ -9,6 +9,8 @@ description: The 1st Autonomous AI Agent for Bitcoin DeFi
 **VaultLayer is building Vaulter BTC:**\
 The 🏁 **first AI Agent that grows your Bitcoin while you sleep** — using delegated Smart Vaults with verifiable on-chain policies.
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Delegate your Smart Vault to Vaulter</p></figcaption></figure>
+
 Vaulter is built for secure, programmable automation of your staking, swapping, and bridging strategies.
 
 * ✅ **Secure**: Operates only with your Smart Vault’s on-chain permissions.
