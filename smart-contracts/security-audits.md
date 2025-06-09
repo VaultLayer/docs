@@ -12,7 +12,9 @@ VaultLayer is committed to security-first development. Below are links to the so
 
 ## 🧠 Smart Vaults & Vaulter AI Agent Policies
 
-* **Source Code**: [Vaulter Tools Contracts](https://github.com/VaultLayer/vaulter-tools/tree/main/packages/aw-contracts)
+* **Source Code**:
+  * Smart Vault Lit Actions: [Vaulter Lit Actions](https://github.com/VaultLayer/vaulter-tools/tree/main/packages/aw-tool/src/lib/lit-action-utils)
+  * Agent Policies: [Vaulter Tools Contracts](https://github.com/VaultLayer/vaulter-tools/tree/main/packages/aw-contracts)
 * **Pentest Brief**: [Pentesting Notes](https://github.com/VaultLayer/vaulter-tools/blob/main/packages/pentest/Pentesting.md)
 * **Auditor**: [SUB7](https://sub7.xyz/) — [@sub7xyz](https://twitter.com/sub7xyz)
 * **Audit Report**: [View PDF](https://github.com/VaultLayer/vaulter-tools/blob/main/packages/audits/SUB7_REPORT_VaultLayer%20Audit_20250605-131228.pdf)
