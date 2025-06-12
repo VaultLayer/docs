@@ -1,5 +1,6 @@
 ---
 description: Deployed Contracts and Supported Chains
+hidden: true
 ---
 
 # Contracts & Chains
