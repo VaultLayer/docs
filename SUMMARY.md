@@ -13,6 +13,7 @@
 ## LASER  Points <a href="#points" id="points"></a>
 
 * [Social Quest](points/social-quest.md)
+* [Mint a Smart Vault](points/mint-a-smart-vault.md)
 * [Stake BTC on L1](points/test-btc-staking.md)
 * [Use BTC as collateral](points/borrow-usdcore-with-nft.md)
 * [Earn Providing Liquidity](points/lend-usdcore.md)
