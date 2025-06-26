@@ -21,7 +21,7 @@ description: >-
 💸 **Creating a Loan Request:**
 
 * Specify your loan parameters:
-  * Loan Amount (in $CORE or $USDC depending on chain).
+  * Loan Amount (in $vltCORE or $USDC depending on chain).
   * Max Interest Rate (50% - 500% APR).
   * Loan Duration (1 - 90 days).
 * Click "List" and confirm both Allowance and Transaction requests in your wallet.
