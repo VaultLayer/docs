@@ -26,3 +26,8 @@
 ## Roadmap
 
 * [🔶 Tokenomics](roadmap/tokenomics.md)
+
+## LEGAL
+
+* [Privacy](legal/privacy.md)
+* [Terms](legal/terms.md)
