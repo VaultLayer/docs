@@ -26,6 +26,7 @@
 ## Roadmap
 
 * [🔶 Tokenomics](roadmap/tokenomics.md)
+* [Yellow Paper](roadmap/yellow-paper.md)
 
 ## LEGAL
 
