@@ -2,6 +2,8 @@
 description: The 1st Autonomous AI Agent for Bitcoin DeFi
 ---
 
+> Legacy notice: This page describes the original VaulterBTC AI Agent. Vaulter Agents is now the primary user product and brand. See `vaulter-agents/README.md` and `vaulter-agents/user-guide.md` for the latest docs.
+
 # 🤖 VaulterBTC AI Agent
 
 ### What is Vaulter?
@@ -109,7 +111,7 @@ Want to try Vaulter BTC?
 ## 📬 Stay in Touch
 
 * Twitter: [@VaultLayer](https://x.com/VaultLayer)
-* Telegram: [@bitcoin\_defi\_strategy](https://t.me/bitcoin_defi_strategy)
+* Telegram: [@bitcoin_defi_strategy](https://t.me/bitcoin_defi_strategy)
 
 ***
 
