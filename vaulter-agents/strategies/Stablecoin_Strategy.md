@@ -296,14 +296,14 @@ The strategy automatically detects and configures the appropriate chain based on
 - **Type**: Traditional lending protocol
 - **Features**: Stable yields, high liquidity
 - **Risk Level**: Low to medium
-- **APY Range**: 2-5%
+- **APY Range**: Variable
 - **Supported Chains**: All supported chains (Ethereum, Arbitrum, Base, etc.)
 
 #### **Morpho**
 - **Type**: Optimized peer-to-peer lending
 - **Features**: Higher yields through P2P matching
 - **Risk Level**: Medium
-- **APY Range**: 3-7%
+- **APY Range**: Variable
 - **Supported Chains**: All supported chains via ERC4626 vaults
 
 #### **Additional Protocols**
