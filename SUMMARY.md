@@ -1,16 +1,37 @@
 # Table of contents
 
-* [👋 Intro to VaultLayer](README.md)
+* [👋 Intro to Vaulter Agents](README.md)
 
-## Components
+## Vaulter Agents
+
+* [🤖 Overview](vaulter-agents/README.md)
+* [📘 User Guide](vaulter-agents/user-guide.md)
+* [🟠 Architecture](components/agent-delegation.md)
+
+### Strategies
+* [Overview](vaulter-agents/strategies/README.md)
+* [DCA Strategy](vaulter-agents/strategies/DCA_Strategy.md)
+* [ASX Staking Strategy](vaulter-agents/strategies/ASX_Staking_Strategy.md)
+* [BTC Staking Strategy](vaulter-agents/strategies/BTC_Staking_Strategy.md)
+* [CORE Staking Strategy](vaulter-agents/strategies/CORE_Staking_Strategy.md)
+* [Stablecoin Strategy](vaulter-agents/strategies/Stablecoin_Strategy.md)
+
+### ∞ Autopilot Credits
+* [User Guide](vaulter-agents/autopilot-credits/USER_GUIDE.md)
+* [Partner Guide](vaulter-agents/autopilot-credits/PARTNER_GUIDE.md)
+
+## VaultLayer Protocol
+
+### Components
 
 * [🟠 Smart Vaults](components/smart-vaults.md)
 * [🚀 Bitcoin Staking](components/bitcoin-staking.md)
-* [🔶 vltCORE](smart-vaults/vltcore.md)
+* [🔶 vltCORE](components/vltcore.md)
 * [🤝 P2P Liquidity](components/p2p-liquidity.md)
-* [🤖 VaulterBTC AI Agent](components/vaulterbtc-ai-agent.md)
+* [🤖 Agent Delegation](components/agent-delegation.md)
 
-## LASER  Points <a href="#points" id="points"></a>
+<!-- Legacy LASER Points section replaced by ∞ Autopilot Credits under Vaulter Agents. Retaining pages below for reference and onboarding tasks. -->
+### Onboarding Guides
 
 * [Social Quest](points/social-quest.md)
 * [Mint a Smart Vault](points/mint-a-smart-vault.md)
