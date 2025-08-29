@@ -17,8 +17,8 @@ VaultLayer is the underlying protocol supporting Vaulter Agents (smart contracts
 
 ## What’s Vaulter vs. VaultLayer?
 
-- **VaultLayer (Protocol)**: Smart Vaults, tool policy contracts, vltCORE, contracts and audits. Voice: technical/investor.
-- **Vaulter Agents (Product)**: User-facing agents, strategies, autopilot credits, growth and support. Voice: friendly collective “we”.
+- **VaultLayer (Protocol)**: Smart Vaults, tool policy contracts, vltCORE, contracts and audits. 
+- **Vaulter Agents (Product)**: User-facing agents, strategies, autopilot credits, growth and support.
 
 “VaultLayer protocol powers Vaulter Agents.”
 

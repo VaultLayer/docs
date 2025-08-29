@@ -54,7 +54,7 @@ Smart contracts that define the automation rules for AI Agents managing Smart Va
 
 Protocol: [https://vaultlayer.xyz](https://vaultlayer.xyz) · [@VaultLayer](https://x.com/VaultLayer)
 
-Product: [https://vaulteragents.xyz](https://vaulteragents.xyz) · [@VaulterAgents](https://x.com/VaulterAgents)
+Agents: [https://vaulteragents.xyz](https://vaulteragents.xyz) · [@VaulterAgents](https://x.com/VaulterAgents)
 
-Support: Telegram [@VaulterSupport](https://t.me/VaulterSupport)
+Support: [@bitcoin\_defi\_strategy](https://t.me/+Q58TzLXmvGM0MGFh)
 

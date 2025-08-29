@@ -224,7 +224,6 @@ Welcome to the comprehensive documentation for all Direct Strategies algorithms.
 - **Examples**: Code examples and use cases
 
 ### **Community**
-- **Discord**: Join our community for discussions
 - **Telegram**: Get real-time updates and support
 - **GitHub**: Contribute to strategy development
 

@@ -17,7 +17,7 @@ Thank you for your interest in partnering with Vaulter Agents! This guide will h
 ### Step 1: Contact Vaulter Team
 Reach out to our partnership team to get your custom referral code:
 - **Email**: contact@vaultlayer.xyz
-- **Telegram**: @VaulterAgents
+- **Telegram**: [@bitcoin\_defi\_strategy](https://t.me/+Q58TzLXmvGM0MGFh)
 
 ### Step 2: Receive Your Code
 We'll provide you with:
