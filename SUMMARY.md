@@ -13,7 +13,7 @@
 * [ASX Staking Strategy](vaulter-agents/strategies/ASX_Staking_Strategy.md)
 * [BTC Staking Strategy](vaulter-agents/strategies/BTC_Staking_Strategy.md)
 * [CORE Staking Strategy](vaulter-agents/strategies/CORE_Staking_Strategy.md)
-* [Stablecoin Strategy](vaulter-agents/strategies/Stablecoin_Strategy.md)
+* [Stablecoin Farming Strategy](vaulter-agents/strategies/Stablecoin_Strategy.md)
 
 ## ∞ Autopilot Credits
 
