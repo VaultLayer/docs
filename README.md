@@ -1,59 +1,27 @@
 ---
-description: DeFi on Autopilot — Everywhere. 💼🚀✨
+description: Vaulter Agents DeFi on Autopilot — Everywhere.
 ---
 
-# 👋 Intro to Vaulter Agents
+# 🤖 Overview
 
-{% hint style="info" %}
-**Note:** Try the Vaulter Agents app at [https://app.vaulteragents.xyz](https://app.vaulteragents.xyz) — earn ∞ Autopilot Credits.
-{% endhint %}
+Vaulter Agents run secure, autonomous strategies on your NFT-owned Smart Vaults across CoreDAO, Base, Ethereum, and more — powered by the VaultLayer protocol.
 
-Vaulter Agents is the AgentFi autopilot for DeFi, running on the VaultLayer protocol. It’s the simplest, self-custodial way to grow your BTC on Layer 1 and unlock DeFi opportunities across EVM chains.
+* **App**: https://app.vaulteragents.xyz
+* **Site**: https://vaulteragents.xyz
+* **Twitter**: https://x.com/VaulterAgents
 
-Powered by the VaultLayer protocol, Smart Vaults turn Bitcoin into a productive asset — without sacrificing custody — enabling:
+VaultLayer is the underlying protocol supporting Vaulter Agents (smart contracts, audits, analytics). The protocol identity continues at https://docs.vaultlayer.xyz and https://x.com/VaultLayer.
 
-* ✅ Bitcoin staking with full ownership
-* 💰 Yield optimization using CoreDAO’s dual-staking rewards
-* 🔓 Cross-chain liquidity via P2P lending markets
-* 🤖 Automation with Vaulter Agents (AgentFi autopilot for DeFi)
+## Get Started
 
-***
+* Read the User Guide: [📘 Vaulter Agents User Guide](vaulter-agents/user-guide.md)
+* Explore Strategies: [🧩 Strategy Catalog](vaulter-agents/strategies/)
+* Earn ∞ Autopilot Credits: [🎁 User Guide](vaulter-agents/autopilot-credits/USER_GUIDE.md) · [🤝 Partner Guide](vaulter-agents/autopilot-credits/PARTNER_GUIDE.md)
+* Architecture & Paper: [🏗️ Secure AI Delegation for NFT-Owned Smart Vaults](vaulter-agents/whitepaper.md)
 
-### 🧩 Key Components
+## What’s Vaulter vs. VaultLayer?
 
-#### 🧠 [Smart Vaults](https://docs.vaultlayer.xyz/components/smart-vaults)
+* **VaultLayer (Protocol)**: Smart Vaults, tool policy contracts, vltCORE, contracts and audits.
+* **Vaulter Agents (Product)**: User-facing agents, strategies, autopilot credits, growth and support.
 
-NFTs that represent ownership and control of Bitcoin-backed Smart Vaults across supported EVM chains.
-
-#### 🚀 [Bitcoin Staking](components/bitcoin-staking.md)
-
-Keep Bitcoin on L1. Get yield and liquidity from your Smart Vault.
-
-#### 🏛️ [vltCORE Protocol](https://docs.vaultlayer.xyz/components/vltcore)
-
-Aggregation of CoreDAO dual-staking rewards managed by the vltCore smart contract on the CoreDAO chain.
-
-#### 🤝 [P2P NFT Lending Markets](https://docs.vaultlayer.xyz/components/p2p-liquidity)
-
-Borrow or lend using staked BTC Vaults as collateral. Live across CoreDAO, Arbitrum, Base, BSC, and more.
-
-#### 🔐 [Vaulter Tool Policy Contracts](https://docs.vaultlayer.xyz/components/vaulter-ai-agent)
-
-Smart contracts that define the automation rules for AI Agents managing Smart Vaults.
-
-***
-
-### 🚀 Get Started
-
-* Create your first Smart Vault
-* Stake BTC and earn vltCORE
-* Borrow or lend using NFTs
-* Automate with [Vaulter Agents](vaulter-agents/)
-
-### 📌 Official links:
-
-Protocol: [https://vaultlayer.xyz](https://vaultlayer.xyz) · [@VaultLayer](https://x.com/VaultLayer)
-
-Agents: [https://vaulteragents.xyz](https://vaulteragents.xyz) · [@VaulterAgents](https://x.com/VaulterAgents)
-
-Support: [@bitcoin\_defi\_strategy](https://t.me/+Q58TzLXmvGM0MGFh)
+“VaultLayer protocol powers Vaulter Agents.”

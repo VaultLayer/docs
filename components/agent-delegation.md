@@ -2,11 +2,13 @@
 description: The 1st Autonomous AI Agent for Bitcoin DeFi
 ---
 
+# 🟠 Architecture
+
 > Legacy notice: This page describes the original VaulterBTC AI Agent. Vaulter Agents is now the primary user product and brand. See `vaulter-agents/README.md` and `vaulter-agents/user-guide.md` for the latest docs.
 
-# 🤖 VaulterBTC AI Agent
+## 🤖 VaulterBTC AI Agent
 
-### What is Vaulter?
+#### What is Vaulter?
 
 **VaultLayer is building Vaulter BTC:**\
 The 🏁 **first AI Agent that grows your Bitcoin while you sleep** — using delegated Smart Vaults with verifiable on-chain policies.
@@ -31,7 +33,7 @@ More strategies and tools will be added over time. You’ll shape Vaulter’s be
 
 ***
 
-## ⚠️ Why We Built It
+### ⚠️ Why We Built It
 
 Today’s AI DeFi alternatives come with risks:
 
@@ -39,7 +41,7 @@ Today’s AI DeFi alternatives come with risks:
 * 🧑‍💻 Developer rugpulls
 * ❌ 1-wallet-per-agent models don’t scale
 
-### 🔐 So how do we safely trust an AI Agent to automate our Bitcoin DeFi?
+#### 🔐 So how do we safely trust an AI Agent to automate our Bitcoin DeFi?
 
 We solved this by introducing:
 
@@ -47,7 +49,7 @@ We solved this by introducing:
 
 ***
 
-## 🧠 What is a Smart Vault?
+### 🧠 What is a Smart Vault?
 
 A **Smart Vault** is a programmable, decentralized wallet—built to be:
 
@@ -59,7 +61,7 @@ A **Smart Vault** is a programmable, decentralized wallet—built to be:
 
 ***
 
-## 🛠️ How It Works
+### 🛠️ How It Works
 
 When you delegate a Smart Vault to Vaulter:
 
@@ -77,7 +79,7 @@ All execution is **asynchronous and automated**.
 
 ***
 
-## 💡 Modular & Evolving
+### 💡 Modular & Evolving
 
 The agent is built using [ElizaOS](https://github.com/elizaos), enabling:
 
@@ -90,13 +92,13 @@ You’re in control. We’ll keep adding more options—so you can tell Vaulter 
 
 ***
 
-## ✅ Key Benefits
+### ✅ Key Benefits
 
 <table><thead><tr><th width="218.5714111328125">Feature</th><th>Description</th></tr></thead><tbody><tr><td>🛡️ Trustless</td><td>Only executes within allowed chains, contracts, and limits</td></tr><tr><td>🔁 Automated</td><td>Executes daily without user input</td></tr><tr><td>🧠 Intelligent</td><td>Uses ElizaOS AI tools with memory and planning</td></tr><tr><td>📬 Connected</td><td>Sends execution summaries via Telegram</td></tr><tr><td>🔓 Scalable</td><td>One agent, many vaults. No separate wallets required</td></tr></tbody></table>
 
 ***
 
-## 🧪 Beta Access
+### 🧪 Beta Access
 
 Want to try Vaulter BTC?
 
@@ -108,10 +110,10 @@ Want to try Vaulter BTC?
 
 ***
 
-## 📬 Stay in Touch
+### 📬 Stay in Touch
 
 * Twitter: [@VaultLayer](https://x.com/VaultLayer)
-* Telegram: [@bitcoin_defi_strategy](https://t.me/bitcoin_defi_strategy)
+* Telegram: [@bitcoin\_defi\_strategy](https://t.me/bitcoin_defi_strategy)
 
 ***
 

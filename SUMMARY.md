@@ -1,10 +1,8 @@
 # Table of contents
 
-* [👋 Intro to Vaulter Agents](README.md)
-
 ## Vaulter Agents
 
-* [🤖 Overview](vaulter-agents/README.md)
+* [🤖 Overview](README.md)
 * [📘 User Guide](vaulter-agents/user-guide.md)
 * [🟠 Architecture](components/agent-delegation.md)
 
@@ -22,12 +20,13 @@
 * [User Guide](vaulter-agents/autopilot-credits/USER_GUIDE.md)
 * [Partner Guide](vaulter-agents/autopilot-credits/PARTNER_GUIDE.md)
 
-## Components
+## VaultLayer Components
 
-* [🟠 Smart Vaults](components/smart-vaults.md)
-* [🚀 Bitcoin Staking](components/bitcoin-staking.md)
-* [🔶 vltCORE](components/vltcore.md)
-* [🤝 P2P Liquidity](components/p2p-liquidity.md)
+* [👋 Intro to VaultLayer](vaultlayer-components/readme.md)
+* [🟠 Smart Vaults](vaultlayer-components/smart-vaults.md)
+* [🚀 Bitcoin Staking](vaultlayer-components/bitcoin-staking.md)
+* [🔶 vltCORE](vaultlayer-components/vltcore.md)
+* [🤝 P2P Liquidity](vaultlayer-components/p2p-liquidity.md)
 * [🤖 Agent Delegation](components/agent-delegation.md)
 
 ## Onboarding Guides
