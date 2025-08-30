@@ -8,7 +8,8 @@
 * [📘 User Guide](vaulter-agents/user-guide.md)
 * [🟠 Architecture](components/agent-delegation.md)
 
-### Strategies
+## Strategies
+
 * [Overview](vaulter-agents/strategies/README.md)
 * [DCA Strategy](vaulter-agents/strategies/DCA_Strategy.md)
 * [ASX Staking Strategy](vaulter-agents/strategies/ASX_Staking_Strategy.md)
@@ -16,13 +17,12 @@
 * [CORE Staking Strategy](vaulter-agents/strategies/CORE_Staking_Strategy.md)
 * [Stablecoin Strategy](vaulter-agents/strategies/Stablecoin_Strategy.md)
 
-### ∞ Autopilot Credits
+## ∞ Autopilot Credits
+
 * [User Guide](vaulter-agents/autopilot-credits/USER_GUIDE.md)
 * [Partner Guide](vaulter-agents/autopilot-credits/PARTNER_GUIDE.md)
 
-## VaultLayer Protocol
-
-### Components
+## Components
 
 * [🟠 Smart Vaults](components/smart-vaults.md)
 * [🚀 Bitcoin Staking](components/bitcoin-staking.md)
@@ -30,8 +30,7 @@
 * [🤝 P2P Liquidity](components/p2p-liquidity.md)
 * [🤖 Agent Delegation](components/agent-delegation.md)
 
-<!-- Legacy LASER Points section replaced by ∞ Autopilot Credits under Vaulter Agents. Retaining pages below for reference and onboarding tasks. -->
-### Onboarding Guides
+## Onboarding Guides
 
 * [Social Quest](points/social-quest.md)
 * [Mint a Smart Vault](points/mint-a-smart-vault.md)

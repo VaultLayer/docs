@@ -1,5 +1,5 @@
 ---
-description: Stake Bitcoin on L1 & Use it as Collateral 💼🚀✨
+description: DeFi on Autopilot — Everywhere. 💼🚀✨
 ---
 
 # 👋 Intro to Vaulter Agents
@@ -25,7 +25,7 @@ Powered by the VaultLayer protocol, Smart Vaults turn Bitcoin into a productive 
 
 NFTs that represent ownership and control of Bitcoin-backed Smart Vaults across supported EVM chains.
 
-#### 🚀 [Bitcoin Staking](https://app.gitbook.com/o/TmR8LtP5t6glouLpB11L/s/Y1FCu1LxWV8dChkbB1u9/components/bitcoin-staking)
+#### 🚀 [Bitcoin Staking](components/bitcoin-staking.md)
 
 Keep Bitcoin on L1. Get yield and liquidity from your Smart Vault.
 
@@ -48,13 +48,12 @@ Smart contracts that define the automation rules for AI Agents managing Smart Va
 * Create your first Smart Vault
 * Stake BTC and earn vltCORE
 * Borrow or lend using NFTs
-* Automate with [Vaulter Agents](vaulter-agents/README.md)
+* Automate with [Vaulter Agents](vaulter-agents/)
 
-### 📌 Official links:&#x20;
+### 📌 Official links:
 
 Protocol: [https://vaultlayer.xyz](https://vaultlayer.xyz) · [@VaultLayer](https://x.com/VaultLayer)
 
 Agents: [https://vaulteragents.xyz](https://vaulteragents.xyz) · [@VaulterAgents](https://x.com/VaulterAgents)
 
 Support: [@bitcoin\_defi\_strategy](https://t.me/+Q58TzLXmvGM0MGFh)
-
