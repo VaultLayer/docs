@@ -21,13 +21,13 @@ VaultLayer is the underlying protocol supporting Vaulter Agents (smart contracts
 
 ## Supported DeFi Protocols by Chain
 
-| Agent Strategy     |            Ethereum            |           Arbitrum          |              Base              |            CoreDao           |
-| ------------------ | :----------------------------: | :-------------------------: | :----------------------------: | :--------------------------: |
-| Stablecoin Farming | <p>✅</p><p>(Aave3, Morpho)</p> |    <p>✅</p><p>(Aave3)</p>   | <p>✅</p><p>(Aave3, Morpho)</p> |    <p>✅</p><p>(Colend)</p>   |
-| DCA Bitcoin        |    <p>✅</p><p>(Uniswap)</p>    |   <p>✅</p><p>(Camelot)</p>  |   <p>✅</p><p>(Aerodrome)</p>   |    <p>✅</p><p>(Molten)</p>   |
-| BTC staking        |  <p>✅ </p><p>(VaultLayer)</p>  | <p>✅</p><p>(VaultLayer)</p> |   <p>✅</p><p>(VaultLayer)</p>  |  <p>✅</p><p>(VaultLayer)</p> |
-| Core staking       |                -               |              -              |                -               |  <p>✅</p><p>(VaultLayer)</p> |
-| ASX staking        |                -               |              -              |                -               | <p>✅</p><p>(ASX Capital)</p> |
+| Agent Strategy     |            Ethereum            |           Arbitrum           |              Base              |            CoreDao           |
+| ------------------ | :----------------------------: | :--------------------------: | :----------------------------: | :--------------------------: |
+| Stablecoin Farming | <p>✅</p><p>(Aave3, Morpho)</p> |    <p>✅</p><p>(Aave3)</p>    | <p>✅</p><p>(Aave3, Morpho)</p> |    <p>✅</p><p>(Colend)</p>   |
+| DCA Bitcoin        |    <p>🔜</p><p>(Uniswap)</p>   |   <p>🔜</p><p>(Camelot)</p>  |   <p>🔜</p><p>(Aerodrome)</p>  |    <p>✅</p><p>(Molten)</p>   |
+| BTC staking        |  <p>🔜</p><p>(VaultLayer)</p>  | <p>🔜</p><p>(VaultLayer)</p> |  <p>🔜</p><p>(VaultLayer)</p>  |  <p>✅</p><p>(VaultLayer)</p> |
+| Core staking       |                -               |               -              |                -               |  <p>✅</p><p>(VaultLayer)</p> |
+| ASX staking        |                -               |               -              |                -               | <p>✅</p><p>(ASX Capital)</p> |
 
 ## What’s Vaulter vs. VaultLayer?
 
