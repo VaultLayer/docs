@@ -10,14 +10,12 @@ Vaulter Agents run secure, autonomous strategies on your NFT-owned Smart Vaults 
 * **Site**: https://vaulteragents.xyz
 * **Twitter**: https://x.com/VaulterAgents
 
-VaultLayer is the underlying protocol supporting Vaulter Agents (smart contracts, audits, analytics). The protocol identity continues at https://docs.vaultlayer.xyz and https://x.com/VaultLayer.
-
 ## Get Started
 
-* Read the User Guide: [📘 Vaulter Agents User Guide](vaulter-agents/user-guide.md)
+* How to Launch a Vaulter Agent: [📘 Vaulter Agents User Guide](vaulter-agents/user-guide.md)
 * Explore Strategies: [🧩 Strategy Catalog](vaulter-agents/strategies/)
 * Earn ∞ Autopilot Credits: [🎁 User Guide](vaulter-agents/autopilot-credits/USER_GUIDE.md) · [🤝 Partner Guide](vaulter-agents/autopilot-credits/PARTNER_GUIDE.md)
-* Architecture & Paper: [🏗️ Secure AI Delegation for NFT-Owned Smart Vaults](vaulter-agents/whitepaper.md)
+* How it Works: [Architecture Summary](vaultlayer-components/agent-delegation.md), [Full Yellow Paper](roadmap/yellow-paper.md)
 
 ## Supported DeFi Protocols by Chain
 
@@ -31,7 +29,8 @@ VaultLayer is the underlying protocol supporting Vaulter Agents (smart contracts
 
 ## What’s Vaulter vs. VaultLayer?
 
-* **VaultLayer (Protocol)**: Smart Vaults, tool policy contracts, vltCORE, contracts and audits.
-* **Vaulter Agents (Product)**: User-facing agents, strategies, autopilot credits, growth and support.
+VaultLayer protocol powers Vaulter Agents.
 
-“VaultLayer protocol powers Vaulter Agents.”
+* **VaultLayer (Protocol)**: Smart Vaults, tool policy contracts, vltCORE, contracts and audits. https://x.com/VaultLayer.
+* **Vaulter Agents (Product)**: User-facing agents, strategies, autopilot credits, growth and support. https://x.com/VaulterAgents
+

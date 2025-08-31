@@ -4,7 +4,7 @@
 
 * [🤖 Overview](README.md)
 * [📘 User Guide](vaulter-agents/user-guide.md)
-* [🟠 Architecture](components/agent-delegation.md)
+* [🟠 Architecture](vaultlayer-components/agent-delegation.md)
 
 ## Strategies
 
@@ -27,15 +27,7 @@
 * [🚀 Bitcoin Staking](vaultlayer-components/bitcoin-staking.md)
 * [🔶 vltCORE](vaultlayer-components/vltcore.md)
 * [🤝 P2P Liquidity](vaultlayer-components/p2p-liquidity.md)
-* [🤖 Agent Delegation](components/agent-delegation.md)
-
-## Onboarding Guides
-
-* [Social Quest](points/social-quest.md)
-* [Mint a Smart Vault](points/mint-a-smart-vault.md)
-* [Stake BTC on L1](points/test-btc-staking.md)
-* [Use BTC as collateral](points/borrow-usdcore-with-nft.md)
-* [Earn Providing Liquidity](points/lend-usdcore.md)
+* [🤖 Agent Delegation](vaultlayer-components/agent-delegation.md)
 
 ## Smart Contracts
 
