@@ -55,7 +55,7 @@ Smart Vaults are only allowed to run **hardened Lit Actions**:
 2. `callContract` – Trigger EVM transactions (e.g., ERC20 transfers, swaps, claims).
 3. `coinTransfer` – Tranfer EVM native coin (e.g., CORE, ETH).
 4. `decryptSecrets` – Retrieve encrypted data (e.g., strategy prompts, Telegram handles).
-5. `delegate` – Grant permission to approved agents (like VaulterBTC) with on-chain policies.
+5. `delegate` – Grant permission to approved agents (like Vaulter Agents) with on-chain policies.
 
 These actions are:
 

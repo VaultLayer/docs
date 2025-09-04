@@ -12,4 +12,4 @@ Go to [https://zealy.io/cw/vaultlayer/questboard](https://zealy.io/cw/vaultlayer
 
 <figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption><p>Earn LASER Points open quests</p></figcaption></figure>
 
-Join our [Telegram group](https://t.me/bitcoin_defi_strategy/277) and check for extra prizes based on the Leaderboard!
+Join our [Telegram group](https://t.me/vaulteragents) and check for extra prizes based on the Leaderboard!

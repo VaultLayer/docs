@@ -65,4 +65,4 @@ Protocol: [https://vaultlayer.xyz](https://vaultlayer.xyz) · [@VaultLayer](http
 
 Agents: [https://vaulteragents.xyz](https://vaulteragents.xyz) · [@VaulterAgents](https://x.com/VaulterAgents)
 
-Support: [@bitcoin\_defi\_strategy](https://t.me/+Q58TzLXmvGM0MGFh)
+Support: [@vaulteragents](https://t.me/vaulteragents)  

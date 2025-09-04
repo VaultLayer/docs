@@ -195,7 +195,7 @@ Referral codes only work for new users. Existing users cannot use referral codes
 
 ### Need Help?
 - **Support Email**: contact@vaultlayer.xyz
-- **Telegram**: [@bitcoin\_defi\_strategy](https://t.me/+Q58TzLXmvGM0MGFh)
+- **Telegram**: [@vaulteragents](https://t.me/vaulteragents)  
 - **Documentation**: docs.vaultlayer.xyz
 
 

@@ -104,8 +104,8 @@ You’re in control. We’ll keep adding more options—so you can tell Vaulter 
 
 ### 📬 Stay in Touch
 
-* Twitter: [@VaultLayer](https://x.com/VaulterAgents)  
-* Telegram: [@bitcoin_defi_strategy](https://t.me/bitcoin_defi_strategy)  
+* Twitter: [@VaulterAgents](https://x.com/VaulterAgents)  
+* Telegram: [@vaulteragents](https://t.me/vaulteragents)  
 
 ---
 

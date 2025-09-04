@@ -152,7 +152,7 @@ APY shown in the header is derived from live protocol stats when available; if s
 * Terms of Service: https://docs.vaultlayer.xyz/legal/terms
 * Privacy Policy: https://docs.vaultlayer.xyz/legal/privacy
 * Support: contact@vaultlayer.xyz
-* Telegram Support: [@bitcoin\_defi\_strategy](https://t.me/+Q58TzLXmvGM0MGFh)
+* Telegram Support: [@vaulteragents](https://t.me/vaulteragents)  
 
 —
 
