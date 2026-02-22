@@ -4,6 +4,14 @@ description: Vaulter Agents DeFi on Autopilot — Everywhere.
 
 # 🤖 Overview
 
+{% hint style="info" icon="triangle-exclamation" %}
+**Vaulter Agents will be sunset on Feb 25, 2026.**\
+\
+Please note that we are winding down the current Vaulter Agents (VaultLayer) infrastructure. \
+\
+Thank you all who joined us on this journey for the past two (2) years. 🫡
+{% endhint %}
+
 Vaulter Agents run secure, autonomous strategies on your NFT-owned Smart Vaults across CoreDAO, Base, Ethereum, and more — powered by the VaultLayer protocol.
 
 * **App**: https://app.vaulteragents.xyz
